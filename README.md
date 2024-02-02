@@ -39,7 +39,7 @@ sudo vim /etc/httpd/conf/httpd.conf
 Include conf/extra/php_module.conf
 ```
 
-> [!CAUTION]
+> [!توجه]
 > بعد از این که این خط کد رو در انتهای فایل قرار دادین برای این که از اسم و ورژن اون مطمعن بشین بهتره برین ی بار اسم فایل رو توی مسیر پایین چک کنین
 ```
 cd /etc/httpd/conf/extra
