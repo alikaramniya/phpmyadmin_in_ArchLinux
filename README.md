@@ -1,5 +1,8 @@
 # phpmyadmin_in_ArchLinux
 
+![Login](images/login_phpmyadmin.png)
+![Dashboard](images/dashboard_phpmyadmin.png)
+
 #### اول از همه میریم mariadb روی سیستم خودمون نصب کنیم و بعد رمز هم براش تعیین میکنیم 
 ```
 sudo pacman -S mariadb
