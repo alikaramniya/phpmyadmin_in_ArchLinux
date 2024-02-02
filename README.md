@@ -1,4 +1,4 @@
-# phpmyadmin_in_ArchLinux
+# phpmyadmin_in_ArchLinux :nerd_face:
 
 ![Login](images/login_phpmyadmin.png)
 ![Dashboard](images/dashboard_phpmyadmin.png)
